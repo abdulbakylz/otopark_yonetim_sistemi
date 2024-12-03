@@ -1,0 +1,17 @@
+C:\Users\ABDÜL BAKİ YILDIZ\Source\Repos\otoparkclass\bin\Debug\net7.0-windows\otoparkclass.exe
+C:\Users\ABDÜL BAKİ YILDIZ\Source\Repos\otoparkclass\bin\Debug\net7.0-windows\otoparkclass.deps.json
+C:\Users\ABDÜL BAKİ YILDIZ\Source\Repos\otoparkclass\bin\Debug\net7.0-windows\otoparkclass.runtimeconfig.json
+C:\Users\ABDÜL BAKİ YILDIZ\Source\Repos\otoparkclass\bin\Debug\net7.0-windows\otoparkclass.dll
+C:\Users\ABDÜL BAKİ YILDIZ\Source\Repos\otoparkclass\bin\Debug\net7.0-windows\otoparkclass.pdb
+C:\Users\ABDÜL BAKİ YILDIZ\Source\Repos\otoparkclass\obj\Debug\net7.0-windows\otoparkclass.Form1.resources
+C:\Users\ABDÜL BAKİ YILDIZ\Source\Repos\otoparkclass\obj\Debug\net7.0-windows\otoparkclass.csproj.GenerateResource.cache
+C:\Users\ABDÜL BAKİ YILDIZ\Source\Repos\otoparkclass\obj\Debug\net7.0-windows\otoparkclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDÜL BAKİ YILDIZ\Source\Repos\otoparkclass\obj\Debug\net7.0-windows\otoparkclass.AssemblyInfoInputs.cache
+C:\Users\ABDÜL BAKİ YILDIZ\Source\Repos\otoparkclass\obj\Debug\net7.0-windows\otoparkclass.AssemblyInfo.cs
+C:\Users\ABDÜL BAKİ YILDIZ\Source\Repos\otoparkclass\obj\Debug\net7.0-windows\otoparkclass.csproj.CoreCompileInputs.cache
+C:\Users\ABDÜL BAKİ YILDIZ\Source\Repos\otoparkclass\obj\Debug\net7.0-windows\otoparkclass.dll
+C:\Users\ABDÜL BAKİ YILDIZ\Source\Repos\otoparkclass\obj\Debug\net7.0-windows\refint\otoparkclass.dll
+C:\Users\ABDÜL BAKİ YILDIZ\Source\Repos\otoparkclass\obj\Debug\net7.0-windows\otoparkclass.pdb
+C:\Users\ABDÜL BAKİ YILDIZ\Source\Repos\otoparkclass\obj\Debug\net7.0-windows\otoparkclass.genruntimeconfig.cache
+C:\Users\ABDÜL BAKİ YILDIZ\Source\Repos\otoparkclass\obj\Debug\net7.0-windows\ref\otoparkclass.dll
+C:\Users\ABDÜL BAKİ YILDIZ\Source\Repos\otoparkclass\obj\Debug\net7.0-windows\otoparkclass.Properties.Resources.resources
